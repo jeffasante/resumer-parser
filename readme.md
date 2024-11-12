@@ -12,10 +12,10 @@ This is a simple tool parses PDF resumes, extracting key information such as per
 
 ## Installation and Usage
 
-1. Clone the repository: `git clone git@github.com:jeffasante/resumer-parser.git`
+1. Clone the repository: `git clone https://github.com/jeffasante/resumer-parser.git`
 2. Install required libraries: `pip install spacy PyPDF2`
-2. Download spaCy model: `python -m spacy download en_core_web_sm`
-3. Run the script: `python resume_parser.py path/to/resume.pdf`
+3. Download spaCy model: `python -m spacy download en_core_web_sm`
+4. Run the script: `python resume_parser.py path/to/resume.pdf`
 
 ## Output
 
