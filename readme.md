@@ -1,6 +1,6 @@
 # Resume Parser
 
-This is a simple tool parses PDF resumes, extracting key information such as personal details, work experience, education, and skills.
+This is a simple ai-powered tool that parses PDF resumes, extracts key information such as personal details, work experience, education, and skills.
 
 ## Features
 
