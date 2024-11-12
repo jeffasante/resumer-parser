@@ -10,9 +10,10 @@ This is a simple tool parses PDF resumes, extracting key information such as per
 * Skills matching against a predefined list
 * Education and work experience parsing
 
-## Usage
+## Installation and Usage
 
-1. Install required libraries: `pip install spacy PyPDF2`
+1. Clone the repository: `git clone git@github.com:jeffasante/resumer-parser.git`
+2. Install required libraries: `pip install spacy PyPDF2`
 2. Download spaCy model: `python -m spacy download en_core_web_sm`
 3. Run the script: `python resume_parser.py path/to/resume.pdf`
 
@@ -28,4 +29,6 @@ The script outputs a dictionary containing the following information:
 * Education details (degree, institution, dates)
 * Certifications
 * Projects# resumer-parser
-# resumer-parser
+
+
+
